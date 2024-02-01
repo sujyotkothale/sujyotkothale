@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Devops<br>🌱 I’m currently learning Java<br>💬 Ask me about anything<br>
+🔭 I’m currently working on building new apps<br>👯 I’m looking to collaborate on projects related to ML<br>🌱 I’m currently learning React<br>💬 Ask me about anything<br>
 
 
 
